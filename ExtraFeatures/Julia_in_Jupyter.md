@@ -31,14 +31,20 @@ where jupyter
 
 ![](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/image/julia2.png)
 
-## Step 3 安装 jupyter IJulia内核
-在1.0以后的版本，安装 IJulia 内核正确做法是在英文模式下按]键入pkg模式（中文模式会输入】）
+## Step 3 安装 jupyter IJulia 内核
+- 在1.0以后的版本，安装 IJulia 内核正确做法是在英文模式下按]键入pkg模式（中文模式会输入】）
 
 然后直接在Julia语言终端继续输入命令
 ```
 add IJulia
 ```
 若出现请求超时，多试几次即可
+
+- 另一种方式则是采用using模式，直接在Julia语言终端输入命令
+```
+using Pkg
+Pkg.add("IJulia")
+```
 
 ## Step 4 重启jupyter
 重新启动后就可以看到如下页面：
