@@ -1,13 +1,15 @@
 # Jupyter-Extra-Features
 
-Programming Language In Jupyter
+### Jupyter之于IDE，犹如Python之于编程语言！
 
-- [R in jupyter](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/R in jupyter.md)
+## Programming Language In Jupyter
 
-- [Julia in jupyter](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/Julia in jupyter.md)
+-  [R in jupyter](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/R_in_Jupyter.md)
+
+-  [Julia in jupyter](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/Julia_in_Jupyter.md)
 
 
-Jupyter Extra Features
+## Jupyter Extra Features
 
 No.1 [自动代码补全](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/%E8%87%AA%E5%8A%A8%E4%BB%A3%E7%A0%81%E8%A1%A5%E5%85%A8.md)
 
