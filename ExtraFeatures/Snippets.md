@@ -33,6 +33,10 @@ jupyter nbextensions_configurator enable --user
 
 ![](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/image/Snippets2.gif)
 
+## Step 4 自定义你自己的代码段
+
+- Snippets模式
+
 需要注意的是，Snippets默认只有一个example功能，若要自定义你的代码块，你需要找到你的jupyter存储Nbextensions的路径，可以在jupyter中运行以下代码查找：
 ```
 get_ipython().getoutput('jupyter --data-dir')
@@ -82,3 +86,9 @@ get_ipython().getoutput('jupyter --data-dir')
 这样你的Snippets就会出现"some imports"的选项了，如下所示：
 
 ![](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/image/Snippets3.jpg)
+
+- Snippets Menu模式
+
+在Nbextensions界面中点击Snippets Menu选项，勾选下图中红框选项，并在箭头指向单元格中写入你的代码就可以啦，这种方式就更简单了。
+
+![](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/image/Snippets4.png)
