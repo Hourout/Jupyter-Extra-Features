@@ -1,8 +1,8 @@
+![](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/image/jupyter_logo1.png)
+
 # Jupyter-Extra-Features
 
-![](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/image/jupyter_logo.svg)
-
-#### Jupyter之于IDE，犹如Python之于编程语言！
+#### Jupyter之于IDE，犹如Python之于编程语言！ ![](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/image/jupyter_logo.svg)
 
 ## Programming Language In Jupyter
 
@@ -18,3 +18,5 @@
 - [主题、字体设置](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/%E4%B8%BB%E9%A2%98%E5%AD%97%E4%BD%93%E8%AE%BE%E7%BD%AE.md)
 
 - [单元格分置](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/Split_Cells_Notebook.md)
+
+- [插入常用代码片](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/Snippets.md)
