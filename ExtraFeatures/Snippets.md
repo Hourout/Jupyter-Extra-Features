@@ -81,4 +81,4 @@ get_ipython().getoutput('jupyter --data-dir')
 ```
 这样你的Snippets就会出现"some imports"的选项了，如下所示：
 
-![](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/image/Snippets3.png)
+![](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/image/Snippets3.jpg)
