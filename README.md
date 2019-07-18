@@ -10,6 +10,8 @@
 
 - [Dashboard](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/dashboard.md)
 
+- [Magic Function](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/magic.md)
+
 ## Programming Language In Jupyter
 
 - [R in jupyter](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/R_in_Jupyter.md)
