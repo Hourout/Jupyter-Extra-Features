@@ -32,3 +32,6 @@
 - [折叠单元格](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/Collapsible_Headings.md)
 
 - [幻灯片放映](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/Slideshow.md)
+
+
+[Reference Information Link](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/reference.md)
