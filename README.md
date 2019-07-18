@@ -4,6 +4,12 @@
 
 #### Jupyter之于IDE，犹如Python之于编程语言！ ![](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/image/jupyter_logo.svg)
 
+## Introduce Jupyter
+
+- [Installation](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/introduce.md)
+
+- [Dashboard](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/dashboard.md)
+
 ## Programming Language In Jupyter
 
 - [R in jupyter](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/R_in_Jupyter.md)
