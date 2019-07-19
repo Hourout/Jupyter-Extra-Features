@@ -11,7 +11,7 @@ wget https://github.com/SpencerPark/IJava/releases/download/v1.3.0/ijava-1.3.0.z
 ## Step 2 解压下载得压缩包
 也可以手动解压
 ```
-unzip ijava-1.2.0.zip
+unzip ijava-1.3.0.zip
 ```
 解压后得到一个 install.py 的文件，和一个 java 文件夹
 
