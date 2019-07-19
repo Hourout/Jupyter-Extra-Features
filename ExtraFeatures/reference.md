@@ -1,6 +1,8 @@
 # Reference
 
-
+- https://irkernel.github.io/installation/
+- https://github.com/SpencerPark/IJava
+- https://pypi.org/project/bash_kernel/
 - https://mp.weixin.qq.com/s/fpWtJAOb_Uz5ApndtXAlyw
 - https://blog.51cto.com/853056088/2162189
 - https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html
