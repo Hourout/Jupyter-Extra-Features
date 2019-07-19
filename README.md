@@ -33,5 +33,8 @@
 
 - [幻灯片放映](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/Slideshow.md)
 
+- [魔法工具包](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/Slideshow.md)
 
-[Reference Information Link](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/reference.md)
+## Reference
+
+[Reference Information Link](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/widgets.md)
