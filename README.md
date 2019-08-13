@@ -36,6 +36,8 @@
 
 - [Jupyter notebooks 转换成 Excel 电子表格](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/nb2xls.md)
 
+- [代码美化](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/prettify.md)
+
 ## Reference
 
 [Reference Information Link](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/reference.md)
