@@ -11,3 +11,4 @@
 - https://github.com/jupyter-widgets/ipywidgets/blob/1223d4128aebe6c8831a034a73d1546a91f5138a/docs/source/examples/Widget%20Basics.ipynb
 - https://github.com/jupyter-widgets/ipywidgets
 - https://github.com/ideonate/nb2xls
+- https://github.com/drillan/jupyter-black
