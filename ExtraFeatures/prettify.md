@@ -21,6 +21,8 @@ jupyter nbextensions_configurator enable --user
 ## Step 3 接着安装 jupyter-black
 ```
 pip install black [--user]
+# Installation dependency package
+pip install yapf
 ```
 
 jupyter-black 扩展提供以下功能
