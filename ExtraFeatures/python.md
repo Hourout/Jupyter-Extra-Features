@@ -1,5 +1,7 @@
 # python 环境搭建
 
+参考[Python最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
+
 ## 安装python
 python安装我们我们推荐安装python3.6.5版本及以上，能够覆盖绝大多数的python生态，不建议使用python2.7
 数据科学家推荐使用3.7.0+
