@@ -12,3 +12,7 @@
 - https://github.com/jupyter-widgets/ipywidgets
 - https://github.com/ideonate/nb2xls
 - https://github.com/drillan/jupyter-black
+- https://www.linuxidc.com/Linux/2018-07/153286.htm
+- https://www.cnblogs.com/technologylife/p/5870576.html
+- https://yuenshui.cn/technique/linux/732/
+- https://zhuanlan.zhihu.com/p/44405596
