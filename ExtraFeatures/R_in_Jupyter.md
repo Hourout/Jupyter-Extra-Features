@@ -9,7 +9,7 @@ R语言的安装非常简单，和python一样直接去对应官网下载文件�
 
 下载地址：[R官网下载地址](https://cloud.r-project.org/)
 
-CentOS系统可以命令在线安装：
+CentOS系统可以命令在线安装：[参考链接](https://www.cnblogs.com/awishfullyway/p/6371157.html)
 ```
 1.通过如下命令安装并启用 EPEL （如果已经安装过，直接执行第二步）
 
