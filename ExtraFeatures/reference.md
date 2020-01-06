@@ -16,3 +16,6 @@
 - https://www.cnblogs.com/technologylife/p/5870576.html
 - https://yuenshui.cn/technique/linux/732/
 - https://zhuanlan.zhihu.com/p/44405596
+- https://blog.csdn.net/donaldsy/article/details/96350061
+- https://blog.csdn.net/u011463794/article/details/83017138
+- https://jupyter-notebook.readthedocs.io/en/stable/public_server.html
