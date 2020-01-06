@@ -11,6 +11,8 @@
 
 - [Installation](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/introduce.md)
 
+- [服务器远程配置](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/fuwuqi.md)
+
 - [Dashboard](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/dashboard.md)
 
 - [Magic Function](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/magic.md)
