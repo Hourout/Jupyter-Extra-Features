@@ -56,5 +56,5 @@ c.NotebookApp.allow_root = True # 为了安全，Jupyter默认不允许以root�
 
 # 5、启动Jupyter 远程服务器
 ```
-nohup jupyter notebook &
+nohup jupyter notebook --allow-root &
 ```
