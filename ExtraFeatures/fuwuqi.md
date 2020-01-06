@@ -11,7 +11,7 @@ pip3 install jupyter
 ```
 find -name jupyter
 ```
-
+![](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/image/fwq1.png)
 发现了jupyter位置，注意bin文件是存放命令的，所以我们把它添加到环境变量
 ```
 sudo vim /etc/profile
@@ -20,7 +20,10 @@ export PATH=$PATH:~/.local/bin
 # 退出编辑
 source  /etc/profile
 ```
+![](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/image/fwq2.png)
+
 之后再启动jupyter，就可以了。
+![](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/image/fwq3.png)
 
 # 2、生成Jupyter Notebook配置文件
 ```
