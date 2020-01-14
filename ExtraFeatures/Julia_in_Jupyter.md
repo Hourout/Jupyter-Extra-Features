@@ -6,7 +6,7 @@ Jupyter命名由来最初的思想是来自julia、python 和 R 三种编程语�
 
 ## Step 1 安装Julia语言
 Julia语言的安装非常简单，和python一样直接去对应官网下载文件按照提示下一步就可以了，最好下载1.1以上版本。 
-
+[centos](https://ywnz.com/linuxrj/3282.html)
 下载地址：[Julia官网下载地址](https://julialang.org/downloads/)
 
 ## Step 2 配置jupyter路径（可选）
