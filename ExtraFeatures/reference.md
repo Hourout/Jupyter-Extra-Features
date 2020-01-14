@@ -19,3 +19,7 @@
 - https://blog.csdn.net/donaldsy/article/details/96350061
 - https://blog.csdn.net/u011463794/article/details/83017138
 - https://jupyter-notebook.readthedocs.io/en/stable/public_server.html
+- http://www.jeepxie.net/article/222172.html
+- https://ywnz.com/linuxrj/3282.html
+- https://idroot.us/install-julialang-centos-7/
+- https://www.linuxhelp.com/how-to-install-julialang-on-centos-7
