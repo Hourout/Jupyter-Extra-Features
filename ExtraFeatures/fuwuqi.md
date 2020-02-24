@@ -58,3 +58,14 @@ c.NotebookApp.allow_root = True # 为了安全，Jupyter默认不允许以root�
 ```
 nohup jupyter notebook --allow-root &
 ```
+
+# 6、关闭Jupyter 远程服务器
+查找jupyter 服务的进程编号
+
+```
+ps -ef
+```
+关闭jupyter 服务的进程
+```
+kill -s 9 进程编号
+```
