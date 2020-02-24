@@ -25,3 +25,4 @@
 - https://www.linuxhelp.com/how-to-install-julialang-on-centos-7
 - https://github.com/laixintao/jupyter-dot-kernel
 - https://github.com/laixintao/learn-dot
+- https://github.com/yuvipanda/nbresuse
