@@ -23,3 +23,5 @@
 - https://ywnz.com/linuxrj/3282.html
 - https://idroot.us/install-julialang-centos-7/
 - https://www.linuxhelp.com/how-to-install-julialang-on-centos-7
+- https://github.com/laixintao/jupyter-dot-kernel
+- https://github.com/laixintao/learn-dot
