@@ -21,7 +21,8 @@
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| [R in jupyter](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/R_in_Jupyter.md) | [Julia in jupyter](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/Julia_in_Jupyter.md) | [Bash in jupyter](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/Bash_in_Jupyter.md) | [Java in jupyter](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/ExtraFeatures/Java_in_Jupyter.md) |
+| [R in jupyter](/ExtraFeatures/R_in_Jupyter.md) | [Julia in jupyter](/ExtraFeatures/Julia_in_Jupyter.md) | [Bash in jupyter](/ExtraFeatures/Bash_in_Jupyter.md) | [Java in jupyter](/ExtraFeatures/Java_in_Jupyter.md) |
+| [Dot in jupyter](/ExtraFeatures/Dot_in_Jupyter.md) |  |  |  |
 
 ## Jupyter Extra Features
 
