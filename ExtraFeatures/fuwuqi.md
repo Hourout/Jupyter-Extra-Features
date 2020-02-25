@@ -56,8 +56,16 @@ c.NotebookApp.allow_root = True # 为了安全，Jupyter默认不允许以root�
 
 # 5、启动Jupyter 远程服务器
 ```
-nohup jupyter notebook --allow-root &
+nohup jupyter notebook --allow-root > nohup.out 2>&1 &
 ```
+注：
+
+command>out.file是将command的输出重定向到out.file文件，即输出内容不打印到屏幕上，而是输出到out.file文件中。
+
+2>&1 是将标准出错重定向到标准输出，这里的标准输出已经重定向到了out.file文件，即将标准出错也输出到out.file文件中。
+
+最后一个&， 是让该命令在后台执行。
+试想2>1代表什么，2与>结合代表错误重定向，而1则代表错误重定向到一个文件1，而不代表标准输出；换成2>&1，&与1结合就代表标准输出了，就变成错误重定向到标准输出.
 
 # 6、关闭Jupyter 远程服务器
 查找jupyter 服务的进程编号
