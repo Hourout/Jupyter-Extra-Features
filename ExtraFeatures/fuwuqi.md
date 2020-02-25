@@ -67,6 +67,8 @@ command>out.file是将command的输出重定向到out.file文件，即输出内�
 最后一个&， 是让该命令在后台执行。
 试想2>1代表什么，2与>结合代表错误重定向，而1则代表错误重定向到一个文件1，而不代表标准输出；换成2>&1，&与1结合就代表标准输出了，就变成错误重定向到标准输出.
 
+[Linux命令之nohup详解](https://juejin.im/post/5cf71ed96fb9a07ebf4b5ccf)
+
 # 6、关闭Jupyter 远程服务器
 查找jupyter 服务的进程编号
 
