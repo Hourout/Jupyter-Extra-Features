@@ -26,3 +26,5 @@
 - https://github.com/laixintao/jupyter-dot-kernel
 - https://github.com/laixintao/learn-dot
 - https://github.com/yuvipanda/nbresuse
+- https://github.com/Hourout/hive_kernel
+- https://github.com/Hourout/mysql_kernel
