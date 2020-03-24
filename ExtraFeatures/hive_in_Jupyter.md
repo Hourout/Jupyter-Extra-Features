@@ -15,7 +15,7 @@ python3 -m hive_kernel.install
 ## Step 3 重启Jupyter
 重启后就能看见Hive内核了，如图所示，
 
-![](/image/hive1.png)
+![](/image/hive2.png)
 
 使用方法
 
@@ -23,4 +23,4 @@ python3 -m hive_kernel.install
 
 2: 然后写 hive sql 代码
 
-![](/image/hive2.png)
+![](/image/hive1.png)
