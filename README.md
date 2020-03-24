@@ -22,7 +22,7 @@
 |  |  |  |  |
 | --- | --- | --- | --- |
 | [R in jupyter](/ExtraFeatures/R_in_Jupyter.md) | [Julia in jupyter](/ExtraFeatures/Julia_in_Jupyter.md) | [Bash in jupyter](/ExtraFeatures/Bash_in_Jupyter.md) | [Java in jupyter](/ExtraFeatures/Java_in_Jupyter.md) |
-| [Dot in jupyter](/ExtraFeatures/Dot_in_Jupyter.md) | [Mysql in jupyter](/ExtraFeatures/mysql_in_Jupyter.md) |  |  |
+| [Dot in jupyter](/ExtraFeatures/Dot_in_Jupyter.md) | [Mysql in jupyter](/ExtraFeatures/mysql_in_Jupyter.md) | [Hive in jupyter](/ExtraFeatures/hive_in_Jupyter.md) |  |
 
 ## Jupyter Extra Features
 
