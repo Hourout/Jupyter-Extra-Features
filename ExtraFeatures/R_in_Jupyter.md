@@ -36,19 +36,20 @@ R内核软件包可在CRAN上获得：
 install.packages('IRkernel')
 ```
 再添加到jupyter内核列表中
-```
+```R
 ＃在R 3.3中
-IRkernel :: installspec（ name  =  ' ir33 ', displayname  =  ' R 3.3 '）
+IRkernel::installspec（ name  =  ' ir33 ', displayname  =  ' R 3.3 '）
 ＃在R 3.2中
-IRkernel :: installspec（ name  =  ' ir32 ', displayname  =  ' R 3.2 '）
+IRkernel::installspec（ name  =  ' ir32 ', displayname  =  ' R 3.2 '）
 ```
 
 注意：默认情况下，它按用户安装内核。要在系统范围内安装，请使用user = FALSE。要在sys.prefix当前检测到的jupyter命令行实用工具中进行安装，请使用sys_prefix = TRUE。
 
 举个例子
+
 - 只在当前用户下安装
 ```R
-IRkernel :: installspec（ name  =  ' ir33 ', displayname  =  ' R 3.3 '）
+IRkernel::installspec（ name  =  ' ir33 ', displayname  =  ' R 3.3 '）
 ```
 - 在系统下安装
 ```R
