@@ -29,41 +29,33 @@ yum install R
 
 下载地址：[Rstudio下载地址](https://www.rstudio.com/products/rstudio/download/)
 
-## Step 3 构建 jupyter R内核
-首先我们打开R的命令行，如果不知道也可以直接打开Rsudio，在坐下角的console里写如下命令：
+## Step 3 安装 jupyter R内核
 
-先安装一些依赖包
+R内核软件包可在CRAN上获得：
 ```R
-install.packages(c('repr', 'IRdisplay', 'evaluate', 'crayon', 'pbdZMQ', 'devtools', 'uuid', 'digest'))
+install.packages('IRkernel')
 ```
-接着在线安装 jupyter 的 R 内核
-```R
-devtools::install_github('IRkernel/IRkernel')
+再添加到jupyter内核列表中
 ```
-安装过程中可能会请求超时，多试几次就好了。
-
-如果提示以下原因
-
-"Skipping install of 'IRkernel' from a github remote, the SHA1 (719bbf5e) has not changed since last install.
-
- Use `force = TRUE` to force installation"
-  
-就使用强制安装
-```R
-devtools::install_github('IRkernel/IRkernel', force = TRUE)
+＃在R 3.3中
+IRkernel :: installspec（ name  =  ' ir33 ', displayname  =  ' R 3.3 '）
+＃在R 3.2中
+IRkernel :: installspec（ name  =  ' ir32 ', displayname  =  ' R 3.2 '）
 ```
 
-## Step 4 安装 jupyter R内核
+注意：默认情况下，它按用户安装内核。要在系统范围内安装，请使用user = FALSE。要在sys.prefix当前检测到的jupyter命令行实用工具中进行安装，请使用sys_prefix = TRUE。
+
+举个例子
 - 只在当前用户下安装
 ```R
-IRkernel::installspec()
+IRkernel :: installspec（ name  =  ' ir33 ', displayname  =  ' R 3.3 '）
 ```
 - 在系统下安装
 ```R
-IRkernel::installspec(user = FALSE)
+IRkernel::installspec(user = FALSE, name  =  ' ir33 '， displayname  =  ' R 3.3 ')
 ```
 
-## Step 5 重启jupyter
+## Step 4 重启jupyter
 重新启动后就可以看到如下页面：
 
 ![](https://github.com/Hourout/Jupyter-Extra-Features/blob/master/image/Rkernel.png)
