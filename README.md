@@ -6,6 +6,7 @@
 
 ## Ready
 - [python Environment](/ExtraFeatures/python.md)
+- [python virtual Environment](/ExtraFeatures/conda_environment.md)
 
 ## Introduce Jupyter
 
